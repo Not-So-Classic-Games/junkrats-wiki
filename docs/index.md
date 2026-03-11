@@ -13,6 +13,11 @@
   </div>
 </div>
 
+<div class="jr-under-construction">
+  <strong>🚧 Under Construction</strong><br>
+  This wiki is currently being expanded. Certain pages, images, and lore entries may be incomplete or unavailable while documentation is being developed.
+</div>
+
 <div class="jr-intro-panel">
   <p>
     This wiki is the main reference source for <strong>JunkRats</strong> and related world information.

@@ -31,6 +31,17 @@
   --jr-shadow: rgba(0, 0, 0, 0.45);
 }
 
+.jr-under-construction {
+  margin: 1.5rem 0 2rem 0;
+  padding: 0.9rem 1.2rem;
+  border: 1px solid #a06b2c;
+  background: linear-gradient(180deg, #2b1c10, #1c130b);
+  color: #e9c28d;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  box-shadow: 0 0 0 1px rgba(255,140,0,0.15) inset;
+}
+
 /* =========================================================
    Background
    ========================================================= */
