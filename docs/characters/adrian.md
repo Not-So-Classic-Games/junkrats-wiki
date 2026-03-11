@@ -2,7 +2,7 @@
 
 {{ character_box(
   title="Adrian",
-  image="/assets/characters/adrian.png",
+  image="/assets/character/adrian.png",
   role="Runner / Leader of the JunkRats",
   occupation="Surface scavenger",
   affiliation="[[The Underground]]",

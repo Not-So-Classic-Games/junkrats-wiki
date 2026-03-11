@@ -2,7 +2,7 @@
 
 {{ character_box(
   title="Lucy",
-  image="/assets/characters/lucy.png",
+  image="/assets/character/lucy.png",
   role="Runner / Protector of the JunkRats",
   occupation="Surface scavenger",
   affiliation="[[The Underground]]",
