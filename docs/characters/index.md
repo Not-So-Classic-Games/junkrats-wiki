@@ -13,25 +13,25 @@ These individuals form the primary group followed throughout the *JunkRats* narr
 <div class="jr-card-grid">
 
 <a class="jr-card jr-card--character" href="./adrian/" style="--char-y:-35%;">
-  <img class="jr-card__character" src="/assets/characters/adrian.png" alt="Adrian">
+  <img class="jr-card__character" src="/assets/characters/Adrian.png" alt="Adrian">
   <h3>Adrian</h3>
   <p>Leader of the JunkRats and a former Runner from the Underground.</p>
 </a>
 
 <a class="jr-card jr-card--character" href="./lucy/" style="--char-y:-35%;">
-  <img class="jr-card__character" src="/assets/characters/lucy.png" alt="Lucy">
+  <img class="jr-card__character" src="/assets/characters/Lucy.png" alt="Lucy">
   <h3>Lucy</h3>
   <p>Protector of the JunkRats and an experienced Runner.</p>
 </a>
 
 <a class="jr-card jr-card--character" href="./gabriel/" style="--char-y:-35%;">
-  <img class="jr-card__character" src="/assets/characters/gabriel.png" alt="Gabriel">
+  <img class="jr-card__character" src="/assets/characters/Gabriel.png" alt="Gabriel">
   <h3>Gabriel</h3>
   <p>Technical specialist responsible for operating and restoring abandoned systems.</p>
 </a>
 
 <a class="jr-card jr-card--character" href="./zariah/" style="--char-y:-35%;">
-  <img class="jr-card__character" src="/assets/characters/zariah.png" alt="Zariah">
+  <img class="jr-card__character" src="/assets/characters/Zariah.png" alt="Zariah">
   <h3>Zariah</h3>
   <p>Weapons specialist who joins the group after surviving independently on the surface.</p>
 </a>
