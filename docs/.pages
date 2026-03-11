@@ -1,0 +1,5 @@
+nav:
+- Home: index.md
+- Lore: lore
+- Characters: characters
+- ...
